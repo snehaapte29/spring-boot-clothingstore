@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.snehaapte.practice</groupId>
-    <artifactId>springstarterproject</artifactId>
+    <artifactId>spring-boot-clothing-store</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springstarterproject</name>
+    <name>spring-boot-clothingstore</name>
     <description>Basic Spring starter project</description>
     <packaging>jar</packaging>
     <properties>
